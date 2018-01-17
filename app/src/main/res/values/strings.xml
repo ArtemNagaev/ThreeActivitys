@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ThreeActivitys</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+    <string name="save">Save</string>
+    <string name="hint_text">Please type something.</string>
+</resources>
